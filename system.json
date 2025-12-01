@@ -10,7 +10,7 @@
   },
   "authors": [
     {
-      "name": "TU NOMBRE",
+      "name": "Nosolorol",
       "url": "",
       "discord": ""
     }
@@ -41,8 +41,7 @@
   },
   "primaryTokenAttribute": "health",
   "secondaryTokenAttribute": "power",
-  "url": "https://github.com/najuvgz/Sistema-Hitos-Foundry-VTT",
-  "manifest":"https://raw.githubusercontent.com/najuvgz/Sistema-Hitos-Foundry-VTT/refs/heads/main/system.json",
-  "download": "https://github.com/najuvgz/Sistema-Hitos-Foundry-VTT/archive/refs/heads/main.zip"
-
+  "url": "https://github.com/elfonochasis/Sistema-Hitos-Foundry-VTT",
+  "manifest": "https://raw.githubusercontent.com/elfonochasis/Sistema-Hitos-Foundry-VTT/main/system.json",
+  "download": "https://github.com/elfonochasis/Sistema-Hitos-Foundry-VTT/archive/refs/tags/v1.2.0.zip"
 }
